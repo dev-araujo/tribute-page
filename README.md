@@ -2,7 +2,8 @@
 
 ## 🎨 Resultado
 
-- O resultado pode ser conferido aqui: [**CodePen**](https://codepen.io/dev-araujo/full/WNXqLVE)
+- O resultado pode ser conferido [**aqui**](https://tribute-page-wine.vercel.app/)
+
 
 ![tribute-page](https://user-images.githubusercontent.com/97068163/158276813-17ea06d5-ba07-4131-a83d-6932c005faa0.png)
 
